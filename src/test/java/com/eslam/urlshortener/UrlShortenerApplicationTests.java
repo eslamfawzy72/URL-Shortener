@@ -1,4 +1,4 @@
-package com.eslam.url_shortener;
+package com.eslam.urlshortener;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
