@@ -8,7 +8,9 @@ public class UrlShortenerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UrlShortenerApplication.class, args);
-		System.out.println("Hello springBoot");
+		System.out.println("Hello springBoot\n");
+		System.out.println("testing github actions.....\n");
+
 	}
 
 }
